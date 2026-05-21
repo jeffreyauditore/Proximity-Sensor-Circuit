@@ -1,3 +1,4 @@
+![Project Image](Copy%20of%20Proximity%20Sensor%20Circuit%20and%20Code.png)
 # Proximity Sensor Circuit and Code
 
 Simple Arduino project using the HC-SR04 ultrasonic sensor to detect nearby objects and turn on a light when the distance is below a specified value.
