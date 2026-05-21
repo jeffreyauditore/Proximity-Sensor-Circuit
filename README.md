@@ -43,4 +43,5 @@ Written in Arduino C++.
 Created in Tinkercad.
 
 ## Author
-Vasyl
+Monica Albornoz & Nihaarika Arora
+
